@@ -28,6 +28,11 @@ try {
      * Include Autoloader
      */
     include APP_PATH . '/config/loader.php';
+    
+    /**
+     * Include Composer Autoload
+     */
+    include BASE_PATH . '/vendor/autoload.php';
 
     /**
      * Handle the request

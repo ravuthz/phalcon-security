@@ -1,0 +1,12 @@
+{
+    "name": "ravuthz/phalcon-security",
+    "description": "Phalcon 3.0.3 with PhalconUserPlugin",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Yo Vannaravuth",
+            "email": "ravuthz@gmail.com"
+        }
+    ],
+    "require": {}
+}
